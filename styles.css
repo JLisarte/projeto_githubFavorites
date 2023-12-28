@@ -152,3 +152,17 @@ td .remove {
   color: red;
   cursor: pointer;
 }
+
+footer p {
+  font-size: 1.4rem;
+  text-align: center;
+  margin-top: 10rem;
+  color: var(--text-color);
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  gap: 1rem;
+}
